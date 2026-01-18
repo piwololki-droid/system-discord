@@ -1,5 +1,10 @@
 # system-discord
-
+Pomysł na queue:
+1. Action PAY (gracz zlecił o 1:00:13) -> wykonanie o 1:00:18
+2. MESSAGE (gracz napisal saldo o 1:00:14) -> wykonanie o 1:00:20
+3. MESSAGE (gracz napisal cf o 1:00:15) -> wykonanie o 1:00:22
+4. Action PAY (gracz zlecił o 1:00:17) -> wykonanie o 1:00:27
+komenda orzeł/reszka 1000 pierwszenstwo nad wszystkim
 Komendy bota: 
 - saldo -> sprawdza saldo gracza w bazie danych
 - cf -> wysyła graczowi informacje o możliwości gry "Coinflip: /msg kasynodiscord [orzel/reszka] [kwota] -> Grasz z botem w CF -> dostajesz info na /msg o tym czy wygrałeś czy przegrałeś ZINTEGROWANE Z DISCORD [wyniki gier] [brak cooldownu na komendę orzel/reszka kwota] [cooldown 2 sec na wiadomosci czy gracz wygrał czy nie]
